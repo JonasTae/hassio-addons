@@ -58,7 +58,7 @@
     "PGID": "0",
     "PUID": "0"
   },
-  "image": "ghcr.io/alexbelgium/sonarr_nas-{arch}",
+  "image": "ghcr.io/jonastae/sonarr_nas-{arch}",
   "ingress": true,
   "ingress_entry": "sonarr",
   "init": false,
@@ -97,6 +97,6 @@
     "smbv1": "bool?"
   },
   "slug": "sonarr_nas",
-  "url": "https://github.com/alexbelgium/hassio-addons/tree/master/sonarr",
-  "version": "3.0.10.1567-2"
+  "url": "https://github.com/jonastae/hassio-addons/tree/master/sonarr",
+  "version": "develop"
 }
