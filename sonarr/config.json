@@ -58,7 +58,7 @@
     "PGID": "0",
     "PUID": "0"
   },
-  "image": "ghcr.io/jonastae/sonarr_nas-{arch}",
+  "image": "docker.io/jonastae/sonarr-ha:develop-4.0.0.538-ls499",
   "ingress": true,
   "ingress_entry": "sonarr",
   "init": false,
