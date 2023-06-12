@@ -1,4 +1,0 @@
-- Implemented healthcheck
-- WARNING : update to supervisor 2022.11 before installing
-- Add codenotary sign
-- Initial release
