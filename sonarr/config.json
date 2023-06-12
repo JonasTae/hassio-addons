@@ -58,7 +58,7 @@
     "PGID": "0",
     "PUID": "0"
   },
-  "image": "docker.io/jonastae/sonarr-ha:develop-4.0.0.538-ls499",
+  "image": "docker.io/jonastae/sonarr-ha",
   "ingress": true,
   "ingress_entry": "sonarr",
   "init": false,
@@ -98,5 +98,5 @@
   },
   "slug": "sonarr_nas",
   "url": "https://github.com/jonastae/hassio-addons/tree/master/sonarr",
-  "version": "develop"
+  "version": "develop-4.0.0.538-ls499"
 }
