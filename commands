@@ -1,0 +1,2 @@
+docker buildx build . -t docker.io/jonastae/sonarr-ha:develop-4.0.0.538-ls499
+
