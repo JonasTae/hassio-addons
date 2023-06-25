@@ -4,6 +4,6 @@
     "amd64": "lscr.io/linuxserver/sabnzbd:amd64-latest"
   },
   "codenotary": {
-    "signer": "alexandrep.github@gmail.com"
+    "signer": "taeger.jonas@gmail.com"
   }
 }

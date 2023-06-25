@@ -57,7 +57,7 @@
     "PGID": "0",
     "PUID": "0"
   },
-  "image": "ghcr.io/alexbelgium/sabnzbd-{arch}",
+  "image": "docker.io/jonastae/sabnzbd-ha",
   "ingress_entry": "sabnzbd",
   "init": false,
   "map": [
@@ -91,8 +91,8 @@
     "localdisks": "str?",
     "networkdisks": "str?"
   },
-  "slug": "sabnzbd",
-  "url": "https://github.com/alexbelgium/hassio-addons",
-  "version": "4.0.2-ls113",
+  "slug": "sabnzbd-ha",
+  "url": "https://github.com/jonastae/hassio-addons",
+  "version": "1.0",
   "webui": "http://[HOST]:[PORT:8080]"
 }
