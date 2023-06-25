@@ -1,3 +1,7 @@
+### dev_1.0 (25.06.2023)
+- Update to new release-cycle
+- Update to latest develop-version
+
 ### 3.0.10.1567-2 (19-03-2023)
 - Minor bugs fixed
 - Corrected ingress bug https://github.com/alexbelgium/hassio-addons/issues/758
