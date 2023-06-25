@@ -96,7 +96,7 @@
     "networkdisks": "str?",
     "smbv1": "bool?"
   },
-  "slug": "sonarr_nas",
+  "slug": "sonarr-ha",
   "url": "https://github.com/jonastae/hassio-addons/tree/master/sonarr",
   "version": "dev_1.0"
 }
