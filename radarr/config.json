@@ -4,7 +4,7 @@
     "amd64",
     "armv7"
   ],
-  "codenotary": "alexandrep.github@gmail.com",
+  "codenotary": "taeger.jonas@gmail.-com",
   "description": "A fork of Sonarr to work with movies like Couchpotato",
   "devices": [
     "/dev/dri",
@@ -58,7 +58,7 @@
     "PGID": "0",
     "PUID": "0"
   },
-  "image": "ghcr.io/alexbelgium/radarr_nas-{arch}",
+  "image": "docker.io/jonastae/radarr-ha",
   "ingress": true,
   "ingress_entry": "radarr",
   "init": false,
@@ -97,6 +97,6 @@
     "smbv1": "bool?"
   },
   "slug": "radarr_nas",
-  "url": "https://github.com/alexbelgium/hassio-addons/tree/master/radarr",
-  "version": "4.5.2.7388"
+  "url": "https://github.com/jonastae/hassio-addons/tree/master/radarr",
+  "version": "1.0"
 }

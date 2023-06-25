@@ -1,3 +1,5 @@
+## 1.0 (25-06-2023)
+- Updated to develop branch
 
 ## 4.5.2.7388 (03-06-2023)
 - Update to latest version from linuxserver/docker-radarr
