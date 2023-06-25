@@ -16,7 +16,7 @@
 
 ARG BUILD_FROM
 ARG BUILD_VERSION
-FROM lscr.io/linuxserver/radarr:amd64-develop"
+FROM "lscr.io/linuxserver/radarr:amd64-develop"
 
 ##################
 # 2 Modify Image #
