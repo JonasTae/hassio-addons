@@ -98,5 +98,5 @@
   },
   "slug": "sonarr_nas",
   "url": "https://github.com/jonastae/hassio-addons/tree/master/sonarr",
-  "version": "develop-4.0.0.538-ls499"
+  "version": "dev_1.0"
 }

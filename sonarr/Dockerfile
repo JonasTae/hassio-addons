@@ -16,8 +16,8 @@
 
 ARG BUILD_FROM
 ARG BUILD_VERSION
-ARG BUILD_UPSTREAM="develop-4.0.0.538-ls499"
-FROM "lscr.io/linuxserver/sonarr:amd64-develop-4.0.0.538-ls499"
+ARG BUILD_UPSTREAM="develop"
+FROM "lscr.io/linuxserver/sonarr:amd64-develop"
 
 ##################
 # 2 Modify Image #
