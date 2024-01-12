@@ -3,8 +3,8 @@
 # ==============================================================================
 
 # Set variables
-slug=sonarr
-port=8989
+slug=radarr-4k
+port=7979
 CONFIG_LOCATION=/config/addons_config/"$slug"/config.xml
 
 # Wait for transmission to become available
