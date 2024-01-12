@@ -28,7 +28,7 @@ ENV S6_CMD_WAIT_FOR_SERVICES=1 \
     S6_SERVICES_GRACETIME=0
 
 # Global LSIO modifications
-ARG CONFIGLOCATION="/config/addons_config/radarr"
+ARG CONFIGLOCATION="/config/addons_config/radarr-4k"
 # hadolint ignore=SC2015, SC2013, SC2086
 RUN \
     # Avoid custom-init.d duplications
@@ -126,7 +126,7 @@ LABEL \
 # 6 Healthcheck #
 #################
 
-ENV HEALTH_PORT="7878" \
+ENV HEALTH_PORT="7979" \
     HEALTH_URL=""
 HEALTHCHECK \
     --interval=5s \

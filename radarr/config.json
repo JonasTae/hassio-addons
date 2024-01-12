@@ -96,7 +96,7 @@
     "networkdisks": "str?",
     "smbv1": "bool?"
   },
-  "slug": "radarr-ha",
+  "slug": "radarr-4k",
   "url": "https://github.com/jonastae/hassio-addons/tree/master/radarr",
-  "version": "1.6"
+  "version": "1.0"
 }
