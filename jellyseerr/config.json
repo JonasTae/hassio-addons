@@ -88,7 +88,7 @@
   },
   "slug": "jellyseerr",
   "udev": true,
-  "url": "https://github.com/alexbelgium/hassio-addons/tree/master/jellyseerr",
+  "url": "https://github.com/jonastae/hassio-addons/tree/master/jellyseerr",
   "version": "preview",
   "webui": "[HOST]:[PORT:5055]"
 }
