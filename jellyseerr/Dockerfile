@@ -14,9 +14,8 @@
 # 1 Build Image #
 #################
 
-ARG BUILD_FROM
 ARG BUILD_VERSION
-FROM "jonastae/jellyseerr:preview"
+FROM "jonastae/jellyseerr"
 ENV BASHIO_VERSION=1.29.1
 
 ##################
