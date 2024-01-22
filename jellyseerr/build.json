@@ -3,6 +3,6 @@
     "amd64": "jonastae/jellyseerr:preview"
   },
   "codenotary": {
-    "signer": "alexandrep.github@gmail.com"
+    "signer": "jonastae.github@gmail.com"
   }
 }
