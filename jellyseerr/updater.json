@@ -1,0 +1,10 @@
+{
+  "fulltag": true,
+  "github_exclude": "none",
+  "last_update": "01-01-2024",
+  "repository": "jonastaehassio-addons",
+  "slug": "jellyseerr",
+  "source": "github",
+  "upstream_repo": "jonastae/jellyseerr",
+  "upstream_version": "1.7.0"
+}
